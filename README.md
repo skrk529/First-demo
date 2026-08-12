@@ -1,2 +1,2 @@
-# First-demo
-This is  my privat repo
+#First-demo
+This is  my private repo
